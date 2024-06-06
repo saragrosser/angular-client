@@ -71,11 +71,11 @@
             },
             "development": {
               "buildTarget": "cineVerse-Angular-client:build:development"
-            },
-            "options": {
-              "port": 8080,
-              "host": "localhost"
             }
+          },
+          "options": {
+            "port": 8080,
+            "host": "localhost"
           },
           "defaultConfiguration": "development"
         },
@@ -97,7 +97,10 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "/angular-client/"
+          }
         }
       }
     }
