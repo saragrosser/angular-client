@@ -1,8 +1,8 @@
-# CineVerse Frontend Development with Angular
+# Studio-Ghibli Frontend Development with Angular
 
 ## Project description
 
-Welcome to CineVerse! This project focuses on building the frontend interface for CineVerse using Angular. With a strong backend already in place, including a REST API and database, our goal is to create a seamless and engaging user experience.
+Welcome to Studio-Ghibli! This project focuses on building the frontend interface for Studio-Ghibli API using Angular. With a strong backend already in place, including a REST API and database, our goal is to create a seamless and engaging user experience.
 
 **Key Features**
 
